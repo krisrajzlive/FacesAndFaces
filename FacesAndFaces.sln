@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacesAPI", "FacesAPI\FacesAPI.csproj", "{309D84A1-4A2C-4659-BDC8-C884D6F658AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacesAPITest", "FacesAPITest\FacesAPITest.csproj", "{24722857-9E25-4864-92D8-A34F4022B86C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309D84A1-4A2C-4659-BDC8-C884D6F658AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309D84A1-4A2C-4659-BDC8-C884D6F658AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309D84A1-4A2C-4659-BDC8-C884D6F658AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309D84A1-4A2C-4659-BDC8-C884D6F658AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24722857-9E25-4864-92D8-A34F4022B86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24722857-9E25-4864-92D8-A34F4022B86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24722857-9E25-4864-92D8-A34F4022B86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24722857-9E25-4864-92D8-A34F4022B86C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22440DA3-44FC-438A-8362-1681786567AA}
+	EndGlobalSection
+EndGlobal
